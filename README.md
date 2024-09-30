@@ -29,7 +29,7 @@ To run the game, you'll need to have **Python** and **Pygame** installed.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AhmedxSaad/agarioclone.git
+    git clone https://github.com/AhmedxSaad/Agar.io-clone.git
     ```
 2. Install the required dependencies:
     ```bash
@@ -37,7 +37,7 @@ To run the game, you'll need to have **Python** and **Pygame** installed.
     ```
 3. Run the game:
     ```bash
-    python agarioclone.py
+    python Agar.io-clone.py
     ```
 
 ## How to Play
