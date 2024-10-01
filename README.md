@@ -39,6 +39,9 @@ To run the game, you'll need to have **Python** and **Pygame** installed.
     ```bash
     python Agar.io-clone.py
     ```
+## Screenshots 
+![image](https://github.com/user-attachments/assets/b7cc7926-98b5-4a10-9a6c-e6f9a65f0759)
+![image](https://github.com/user-attachments/assets/410084f9-9504-498a-988d-a530e87b645d)
 
 ## How to Play
 
